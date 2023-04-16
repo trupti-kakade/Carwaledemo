@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-14T19:09:56 IST" name="Default suite" finished-at="2023-04-14T19:10:06 IST" duration-ms="10346">
+    <groups>
+    </groups>
+    <test started-at="2023-04-14T19:09:56 IST" name="Default test" finished-at="2023-04-14T19:10:06 IST" duration-ms="10346">
+      <class name="com.testingshastra.carwale.CarWaleDemo">
+        <test-method signature="verifyThatCertifiedUsedCarsWithColors()[pri:0, instance:com.testingshastra.carwale.CarWaleDemo@66498326]" started-at="2023-04-14T19:09:56 IST" name="verifyThatCertifiedUsedCarsWithColors" finished-at="2023-04-14T19:10:06 IST" duration-ms="10297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThatCertifiedUsedCarsWithColors -->
+      </class> <!-- com.testingshastra.carwale.CarWaleDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
